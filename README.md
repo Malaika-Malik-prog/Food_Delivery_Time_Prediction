@@ -18,4 +18,4 @@ based on different delivery details.
 - Interactive Dashboard
 
 ## Project Status
-In Progress
+Completed
